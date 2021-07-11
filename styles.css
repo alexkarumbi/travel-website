@@ -1,9 +1,11 @@
 body{
   background:rgb(3, 15, 32);
+  color: white;
 }
-.logo{
-  text-indent: -99999999999px;
-  background: url(/Screenshot\ from\ 2021-07-11\ 16-56-41.png);
-  height: 119px;
-  width: 396px;
+img{
+  padding: 10px;
+}
+.company{
+  text-align:center ;
+  padding: 10px;
 }
